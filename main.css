@@ -1,0 +1,58 @@
+.col-sm-4 {
+  padding: 5px;
+  line-height: 50px;
+  font-family: 'Ravi Prakash', cursive;
+  font-size: 1.2em;
+}
+.row {
+  padding: 5px;
+  border-bottom: 2px dashed  white;
+  border-radius: 35px;
+}
+#header {
+  font-family: 'Ravi Prakash', cursive;
+  background-color:#BCA579;
+  color: white;
+  padding: 20px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0; 
+}
+h1 {
+  font-size: 4em;
+  text-align: center;
+}
+#folower {
+  margin-top: 20px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #DEC38F;
+  color: #262626;
+  text-align: center;
+}
+#folower img {
+  width: 100px;
+  border: 2px dashed white;
+}
+a {
+  color: white;
+}
+a:hover {
+  color: #262626;
+  text-decoration: none;
+}
+.item {
+  background-color: #DEC38F;
+  text-align: center;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+  cursor: pointer;
+}
+.item:hover {
+  background-color: #262626;
+  color: #BCA579;
+}
